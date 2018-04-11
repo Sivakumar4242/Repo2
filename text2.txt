@@ -1,0 +1,12 @@
+ Volume in drive G is Study Materials
+ Volume Serial Number is 62C3-FACC
+
+ Directory of G:\Credio\GIT
+
+11-04-2018  05.57 PM    <DIR>          .
+11-04-2018  05.57 PM    <DIR>          ..
+11-04-2018  05.39 PM                21 index.html
+11-04-2018  05.39 PM                 8 text.txt
+11-04-2018  05.57 PM                 0 text2.txt
+               3 File(s)             29 bytes
+               2 Dir(s)  75,961,933,824 bytes free
